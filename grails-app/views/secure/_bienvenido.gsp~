@@ -1,0 +1,21 @@
+
+
+<html>
+<body bgcolor="green">
+<center>
+<h1>
+<u>Hola Bienvenido</u>
+</h1>
+</center>
+      
+
+          <div>
+	      
+	     <g:link controller="logout" >Cerrar Sesion</g:link>
+
+       <a href="http://localhost:8080/usuarios">inicio</a>
+	      
+	  </div>
+
+</body>
+</html>
